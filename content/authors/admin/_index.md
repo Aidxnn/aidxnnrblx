@@ -1,12 +1,13 @@
 ---
+title: AidxnnRBLX
+role: Administrator and Manager
+avatar_filename: aidansignature_pfp.png
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: AidxnnRBLX
-role: Administrator and Manager
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -19,7 +20,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AidxnnRBLX
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
